@@ -1,1 +1,1 @@
-# game-tracker-api
+# game-tracker-manager-api
